@@ -1,1 +1,1 @@
-print("fredxsuzieisSEX")
+print("fredxsuzieisDEAD")
